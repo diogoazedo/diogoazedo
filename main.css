@@ -3870,7 +3870,8 @@ button.close {
 
 .navbar-text {
   display: inline-block;
-  float: initial; }
+  float: initial; 
+}
 
 .navbar-fixed-bottom .navbar-nav {
   float: left; }
@@ -4140,8 +4141,3 @@ h2.with-project-number, .h2.with-project-number {
   .list-icons li {
     float: left;
     margin-right: 5px; }
-
-
-
-// WEBPACK FOOTER //
-// ./styles/main.scss
