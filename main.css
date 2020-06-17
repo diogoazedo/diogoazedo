@@ -2136,29 +2136,29 @@ fieldset[disabled] a.btn {
     background-color: #5cb85c; }
 
 .btn-info {
-  color: #684AD7;
+  color: #da566c;
   background-color: transparent;
-  border-color: #684AD7; }
+  border-color: #da566c; }
   .btn-info:focus, .btn-info.focus {
-    color: #684AD7;
+    color: #da566c;
     background-color: transparent;
-    border-color: #331d84; }
+    border-color: #da566c; }
   .btn-info:hover {
-    color: #684AD7;
+    color: #da566c;
     background-color: transparent;
-    border-color: #4829bb; }
+    border-color: #da566c; }
   .btn-info:active, .btn-info.active,
   .open > .btn-info.dropdown-toggle {
-    color: #684AD7;
+    color: #da566c;
     background-color: transparent;
-    border-color: #4829bb; }
+    border-color: #da566c; }
     .btn-info:active:hover, .btn-info:active:focus, .btn-info:active.focus, .btn-info.active:hover, .btn-info.active:focus, .btn-info.active.focus,
     .open > .btn-info.dropdown-toggle:hover,
     .open > .btn-info.dropdown-toggle:focus,
     .open > .btn-info.dropdown-toggle.focus {
-      color: #684AD7;
+      color: #da566c;
       background-color: transparent;
-      border-color: #331d84; }
+      border-color: #da566c; }
   .btn-info:active, .btn-info.active,
   .open > .btn-info.dropdown-toggle {
     background-image: none; }
@@ -2167,10 +2167,10 @@ fieldset[disabled] a.btn {
   fieldset[disabled] .btn-info:focus,
   fieldset[disabled] .btn-info.focus {
     background-color: transparent;
-    border-color: #684AD7; }
+    border-color: #da566c; }
   .btn-info .badge {
     color: transparent;
-    background-color: #684AD7; }
+    background-color: #da566c; }
 
 .btn-warning {
   color: #f0ad4e;
@@ -4026,7 +4026,7 @@ blockquote {
     padding: 60px 0; }
 
 .fa-icon {
-  color: #000;
+  color: #da566c;
   width: 32px;
   height: 32px;
   line-height: 29px;
@@ -4034,9 +4034,9 @@ blockquote {
   text-align: center;
   display: inline-block;
   border-radius: 60px;
-  border: 1px solid #000; }
+  border: 1px solid #da566c; }
   .fa-icon:hover {
-    background-color: #000;
+    background-color: #da566c;
     color: white; }
   .fa-icon .fa {
     border: none; }
@@ -4101,8 +4101,8 @@ h2.with-project-number, .h2.with-project-number {
 
 .btn-info:hover, .btn-info:focus {
   color: #FFF;
-  border-color: #684AD7;
-  background-color: #684AD7; }
+  border-color: #da566c;
+  background-color: #da566c; }
 
 .btn-success:hover, .btn-success:focus {
   color: #FFF;
